@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 Biography
 
-I am a second-year PhD student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University. I receive my Bachelor's degree from School of Physics, Peking University. 
+I am a second-year PhD student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University. 
 
 My research interest includes AI for EDA, physical simulation, including lithography, electromagnetic, and thermal simulation. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
 
@@ -46,16 +46,16 @@ My research interest includes AI for EDA, physical simulation, including lithogr
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Best Paper Awards Nomination in ICCAD-22.
+- *2021.9* Peking University President Scholarship.
+- *2021.6* Outstanding Graduate of Peking University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, PhD student in the Academy for Advanced Interdisciplinary Studies and School of Integrated Cirtuits, Peking University. 
+- *2017.09 - 2021.06*, Majoring in condensed matter physics in School of Physics, Peking University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.11*, Introduce DeePEB in a Peking University—Zhejiang University EDA workshop.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
