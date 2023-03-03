@@ -34,21 +34,24 @@ My research interest includes AI for EDA, physical simulation, including lithogr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/iccad22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
-[DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD2022-468-DeePEB.pdf)
+DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography 
+  
+  [Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD2022-468-DeePEB.pdf)
 
   **Qipan Wang**, Xiaohan Gao, Yibo Lin, Runsheng Wang, Ru Huang
 
-  **Project**[**Link**](https://github.com/Brilight/DeePEB) 
+  **Project [Link**](https://github.com/Brilight/DeePEB) 
+
+</div>
+</div>
 
  
-- [MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line](https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf)
+MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line [preprint](https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf)
 
   **Qipan Wang**, Ping Liu, Liguo Jiang, Mingjie Liu, Yibo Lin, Runsheng Wang, Ru Huang
 
-- [To be continue], A, B, C, **xxx**
-</div>
-</div>
-  
+- **To be continue**, A, B, C
+
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Awards Nomination in ICCAD-22.
 - *2021.9* Peking University President Scholarship.
