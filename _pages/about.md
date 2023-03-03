@@ -21,8 +21,11 @@ redirect_from:
 
 I am a second-year PhD student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University. I receive my Bachelor's degree from School of Physics, Peking University. 
 
+My research interest includes AI for EDA, lithography, and physical simulation. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
+ 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+<p hidden>I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).</p>
 
 
 # 🔥 News
