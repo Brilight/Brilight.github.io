@@ -34,23 +34,26 @@ My research interest includes AI for EDA, physical simulation, including lithogr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/iccad22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
-DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography 
+DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography ([Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD2022-468-DeePEB.pdf))
+
+**Qipan Wang**, Xiaohan Gao, Yibo Lin, Runsheng Wang, Ru Huang
+
+[**Project**](https://github.com/Brilight/DeePEB) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/iccad22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
   
-  [Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD2022-468-DeePEB.pdf)
+MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line ([preprint](https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf))
 
-  **Qipan Wang**, Xiaohan Gao, Yibo Lin, Runsheng Wang, Ru Huang
-
-  **Project [Link**](https://github.com/Brilight/DeePEB) 
+**Qipan Wang**, Ping Liu, Liguo Jiang, Mingjie Liu, Yibo Lin, Runsheng Wang, Ru Huang
 
 </div>
 </div>
 
- 
-MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line [preprint](https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf)
-
-  **Qipan Wang**, Ping Liu, Liguo Jiang, Mingjie Liu, Yibo Lin, Runsheng Wang, Ru Huang
-
-- **To be continue**, A, B, C
+- **To be continue**
 
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Awards Nomination in ICCAD-22.
