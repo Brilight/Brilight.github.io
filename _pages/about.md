@@ -43,7 +43,7 @@ DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/iccad22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/dac23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
 MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line. 60th ACM/IEEE Design Automation Conference (DAC) 2023. ([preprint](https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf))
