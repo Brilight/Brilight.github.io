@@ -40,11 +40,12 @@ My research interest includes AI for EDA, physical simulation, including lithogr
 
 [**Project**](https://github.com/Brilight/DeePEB) 
 
-[MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line]([https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf])
+ 
+- [MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line]([https://github.com/Brilight/Brilight.github.io/blob/main/docs/DAC2023_Microstrip.pdf])
 
-**Qipan Wang**, Xiaohan Gao, Yibo Lin, Runsheng Wang, Ru Huang
+**Qipan Wang**, Ping Liu, Liguo Jiang, Mingjie Liu, Yibo Lin, Runsheng Wang, Ru Huang
 
-- [To be continue](https://github.com/Brilight), A, B, C, **xxx**
+- [To be continue], A, B, C, **xxx**
 
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Awards Nomination in ICCAD-22.
