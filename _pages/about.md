@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 Biography
 
-I am a second-year Ph.D. student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/lyb_ae03bbb7dd1548659c1ffe83edd4a047/index.htm)).
+I am a second-year Ph.D. student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://yibolin.com)).
 
 My research focus on AI for EDA, especially for physical (lithography, electromagnetic, thermal, and stress) simulation. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
 
