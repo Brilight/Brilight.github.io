@@ -21,7 +21,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://yibolin.com)).
 
-My research focus on AI for EDA, especially for physical (lithography, electromagnetic, thermal, and stress) simulation. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
+My research focuses on using AI for physical verification and design optimization in EDA. I am exploring the use of deep learning techniques to optimize designs for manufacturability and accelerate physical simulation while maintaining interpretability and adherence to physical principles. The ultimate goal of my research is to enable faster and more efficient design cycles for complex electronic systems through the integration of AI and EDA. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
 
 
 # 🔥 News
