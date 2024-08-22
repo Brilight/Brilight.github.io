@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wang Qipan<br>(王启盼)"
-  avatar           : "images/personal_photo.jpeg"
-  bio              : "PhD Student@PKU,<br> focusing on AI4EDA, Physical Simulation"
+  avatar           : "images/personal photo small.jpg"
+  bio              : "PhD Student@PKU,<br> Focusing on Multiphysics Simulation; 3D-IC; AI4EDA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
