@@ -19,17 +19,41 @@ redirect_from:
 
 # 👨🏻‍💻 Biography
 
-I am a second-year Ph.D. student in the <a href='http://www.aais.pku.edu.cn'>Academy for Advanced Interdisciplinary Studies </a> and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://yibolin.com)).
+I am a forth-year Ph.D. student in the Academy for Advanced Interdisciplinary Studies and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://yibolin.com)).
 
-My research focuses on using AI for physical verification and design optimization in EDA. I am exploring the use of deep learning techniques to optimize designs for manufacturability and accelerate physical simulation while maintaining interpretability and adherence to physical principles. The ultimate goal of my research is to enable faster and more efficient design cycles for complex electronic systems through the integration of AI and EDA. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22.
+My research focuses on multiphysics simulation and optimization in 3D-IC. I am also interested in exploiting DL to optimize designs for manufacturability and accelerate physical simulation while maintaining interpretability and adherence to physical principles. The ultimate goal of my research is to enable faster and more efficient design cycles for complex electronic systems through the integration of AI and EDA. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22. I have also served as a reviewer of IEEE Transactions on Semiconductor Manufacturing.
 
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉🎉 My work MTL-Designer was accpeted by DAC-23.
+- *2024.06*: &nbsp;🎉🎉 ATPlace2.5D and FaStTherm was accpeted by ICCAD-24.
 
-- *2022.10*: &nbsp;🎉🎉 My work DeePEB recieved the Best Paper Awards Nomination in ICCAD-22.
+- *2023.02*: &nbsp;🎉🎉 MTL-Designer was accpeted by DAC-23.
+
+- *2022.10*: &nbsp;🎉🎉 DeePEB recieved the Best Paper Awards Nomination in ICCAD-22.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/25dic.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC([Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD520_final_v4.pdf))
+
+**Qipan Wang**, Xueqing Li, Tianyu Jia, Yibo Lin, Runsheng Wang, Ru Huang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/flow.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity
+([Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ISEDA24_ATSim_final.pdf))
+
+**Qipan Wang**, Tianxiang Zhu, Yibo Lin, Runsheng Wang, Ru Huang
+
+[**Project**](https://github.com/Brilight/ATSim3D_pub) 
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/iccad22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -56,6 +80,7 @@ MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transm
 - **To be continue**
 
 # 🎖 Honors and Awards
+- *2023.9* Peking University President Scholarship.
 - *2022.10* Best Paper Awards Nomination in ICCAD-22.
 - *2021.9* Peking University President Scholarship.
 - *2021.6* Outstanding Graduate of Peking University.
@@ -68,8 +93,7 @@ MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transm
 - *2022.11*, Introduce DeePEB in a Peking University—Zhejiang University EDA workshop.
 
 # 💻 Internships
--Looing forward to internships in 2023 Summer.
-
+-2024 Summer: Summer Intern @ DAMO Academy, focusing on thermal simulation and optimization in 3D-IC
 
 
 
