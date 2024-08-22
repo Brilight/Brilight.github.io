@@ -21,7 +21,7 @@ redirect_from:
 
 I am a forth-year Ph.D. student in the Academy for Advanced Interdisciplinary Studies and <a href='https://ic.pku.edu.cn'>School of Integrated Cirtuits </a>, Peking University, advised by Prof. Ru Huang([黄如](https://ic.pku.edu.cn/szdw/ysfc/hr/index.htm)), Runsheng Wang([王润声](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/wrs/index.htm)), and Yibo Lin([林亦波](https://yibolin.com)).
 
-My research focuses on multiphysics simulation and optimization in 3D-IC. I am also interested in exploiting DL to optimize designs for manufacturability and accelerate physical simulation while maintaining interpretability and adherence to physical principles. The ultimate goal of my research is to enable faster and more efficient design cycles for complex electronic systems through the integration of AI and EDA. I also pay close attention to excellent machine learning technology. I am a recipient of the Best Paper Awards Nomination at ICCAD-22. I have also served as a reviewer of IEEE Transactions on Semiconductor Manufacturing.
+My research focuses on multiphysics simulation and optimization in 3D-IC. I also pay close attention to excellent machine learning technology, exploiting AI to optimize design for manufacturability and accelerate physical simulation while maintaining interpretability and adherence to physical principles. The ultimate goal of my research is to enable more efficient design and verification cycles for complex electronic systems through the integration of AI and EDA. I am a recipient of the Best Paper Awards Nomination at ICCAD-22. I have served as a reviewer of IEEE Transactions on Semiconductor Manufacturing.
 
 
 # 🔥 News
