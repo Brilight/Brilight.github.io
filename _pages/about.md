@@ -33,7 +33,7 @@ My research focuses on multiphysics simulation and optimization in 3D-IC. I am a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/25dic.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/ICCAD24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC([Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ICCAD520_final_v4.pdf))
 
@@ -42,7 +42,7 @@ ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scal
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/flow.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/ISEDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity
 ([Paper](https://github.com/Brilight/Brilight.github.io/blob/main/docs/ISEDA24_ATSim_final.pdf))
