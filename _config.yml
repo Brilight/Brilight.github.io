@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Quasi-Page"
-description              : "Observe in mirror."
+title                    : "Qipan Wang · 3D-IC Design Methodology"
+description              : "Qipan Wang (王启盼) works on 3D-IC design methodology for advanced heterogeneous integration systems, spanning architecture, software and physical implementation."
 repository               : "Brilight/Brilight.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wang Qipan<br>(王启盼)"
   avatar           : "images/personal photo small.jpg"
-  bio              : "PhD Student@PKU,<br> Focusing on Multiphysics Simulation; 3D-IC; AI4EDA"
+  bio              : "Architecture Engineer, PicoHeart · Witintech<br> 3D-IC design methodology · advanced heterogeneous integration"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
